@@ -12,6 +12,7 @@ gem 'sqlite3'
 gem 'puma', '~> 3.7'
 
 gem 'bcrypt'
+gem 'jwt'
 
 group :development, :test do
   gem 'rspec-rails'
